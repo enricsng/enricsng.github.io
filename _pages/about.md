@@ -13,15 +13,15 @@ I'm a final year student at the Singapore University of Technology and Design (S
 
 What I do
 ======
-I'm passionate about software development, data science, and machine learning. I like sociology, psychology, and philosophy. I'm also interested in design, art, and music.
+I'm passionate about software development. I like sociology, psychology, and philosophy. I'm also interested in design, art, and music.
 
-My Experiences
+<!-- My Experiences
 ======
-I have interned at various companies, including [Company A](https://www.company-a.com) and [Company B](https://www.company-b.com). I have also participated in hackathons, such as [Hackathon A](https://www.hackathon-a.com) and [Hackathon B](https://www.hackathon-b.com).
+I have interned at various companies, including [Company A](https://www.company-a.com) and [Company B](https://www.company-b.com). I have also participated in hackathons, such as [Hackathon A](https://www.hackathon-a.com) and [Hackathon B](https://www.hackathon-b.com). -->
 
 What Inspires Me
 ======
-Nature
+I draw inspiration from nature, whether through hiking or simply immersing myself in its quiet beauty. I’m also passionate about math, science, and philosophy, which shape my approach to problem-solving and critical thinking. Sociology fascinates me as it helps me understand human behavior and social structures, offering valuable insights into how we can positively impact society. Together, these passions fuel my curiosity and drive for meaningful experiences.
 
 Let's Connect
 ======
